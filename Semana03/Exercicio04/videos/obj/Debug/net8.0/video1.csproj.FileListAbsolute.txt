@@ -1,0 +1,14 @@
+C:\Users\thais\Desktop\atividade4\video1\video1\bin\Debug\net8.0\video1.exe
+C:\Users\thais\Desktop\atividade4\video1\video1\bin\Debug\net8.0\video1.deps.json
+C:\Users\thais\Desktop\atividade4\video1\video1\bin\Debug\net8.0\video1.runtimeconfig.json
+C:\Users\thais\Desktop\atividade4\video1\video1\bin\Debug\net8.0\video1.dll
+C:\Users\thais\Desktop\atividade4\video1\video1\bin\Debug\net8.0\video1.pdb
+C:\Users\thais\Desktop\atividade4\video1\video1\obj\Debug\net8.0\video1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thais\Desktop\atividade4\video1\video1\obj\Debug\net8.0\video1.AssemblyInfoInputs.cache
+C:\Users\thais\Desktop\atividade4\video1\video1\obj\Debug\net8.0\video1.AssemblyInfo.cs
+C:\Users\thais\Desktop\atividade4\video1\video1\obj\Debug\net8.0\video1.csproj.CoreCompileInputs.cache
+C:\Users\thais\Desktop\atividade4\video1\video1\obj\Debug\net8.0\video1.dll
+C:\Users\thais\Desktop\atividade4\video1\video1\obj\Debug\net8.0\refint\video1.dll
+C:\Users\thais\Desktop\atividade4\video1\video1\obj\Debug\net8.0\video1.pdb
+C:\Users\thais\Desktop\atividade4\video1\video1\obj\Debug\net8.0\video1.genruntimeconfig.cache
+C:\Users\thais\Desktop\atividade4\video1\video1\obj\Debug\net8.0\ref\video1.dll
