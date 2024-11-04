@@ -1,0 +1,7 @@
+A aula explora a programação orientada a objetos (POO), comparando-a com paradigmas estruturado e funcional. Destaca vantagens como modularidade e reutilização de código, e explica conceitos essenciais: classes, objetos, encapsulamento, herança e polimorfismo. A POO permite representar elementos reais como objetos que agrupam dados e comportamentos, simplificando a resolução de problemas complexos. Com exemplos práticos, a aula demonstra como dividir problemas em partes menores e organizar o código com eficiência. Através da abstração e encapsulamento, a POO oculta detalhes de implementação, aumentando a segurança e a clareza do código. Relações como associação, composição e herança permitem estruturar hierarquias de classes, enquanto o polimorfismo viabiliza diferentes comportamentos para métodos em uma mesma hierarquia. A modularidade, por fim, permite dividir o sistema em componentes independentes, tornando a programação mais organizada e flexível.
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+O conceito de POO vai além das linguagens de programação, englobando atividades como análise, levantamento de requisitos e design. Seu objetivo principal é a representação de elementos do mundo real como objetos, que combinam estados e comportamentos. Princípios como encapsulamento e herança são essenciais para facilitar a manutenção e a reutilização de código. Diferentemente do paradigma estruturado, a programação orientada a objetos oferece um controle mais refinado sobre o acesso aos dados.
+
+Herança e polimorfismo são conceitos da programação orientada a objetos.
+
+A herança permite que um objeto adquira atributos e métodos de um objeto pai, promovendo a reutilização de código. Por exemplo, o atributo "cor da tampa" pode ser herdado e modificado em canetas filhas. Já o polimorfismo permite que um objeto assuma comportamentos diferentes em determinados contextos, possibilitando a substituição de métodos sem depender do comportamento da classe pai.
+
+O encapsulamento protege detalhes internos da implementação de um objeto, expondo apenas o necessário para o acesso externo. Por exemplo, uma caneta pode ter o atributo "cor da tampa" configurado como somente leitura. A abstração envolve a criação de uma representação simplificada de um objeto, com a implementação delegada para classes derivadas. A combinação entre encapsulamento e polimorfismo também é vista como uma forma de abstração, embora existam debates sobre essa interpretação.
+
+Na Programação Orientada a Objetos, a abstração é ilustrada pelo exemplo de uma caneta desmontada.
+
+A caneta desmontada representa a superclasse, que por si só é insuficiente para realizar funções até que uma subclasse específica seja criada. A herança é essencial nesse processo, pois permite que uma classe pai gere subclasses com características particulares. O vídeo também enfatiza a importância dos padrões de design para organizar o código orientado a objetos. Entre as linguagens de programação que suportam esse paradigma estão Java, Python, Ruby e JavaScript.

@@ -1,0 +1,13 @@
+A introdução à orientação a objetos apresenta esse paradigma de programação que organiza o código em objetos, representando entidades do mundo real com suas propriedades e métodos, facilitando a manutenção e organização do código. A orientação a objetos melhora a estrutura do código, tornando-o mais legível e reutilizável, permitindo modelar sistemas complexos de maneira intuitiva e é amplamente utilizada em várias linguagens de programação.
+
+Os quatro pilares da orientação a objetos são encapsulamento, abstração, herança e polimorfismo. O encapsulamento agrupa variáveis e funções em objetos, restringindo o acesso a detalhes internos e expondo apenas o necessário, o que ajuda na manutenção e compreensão do código. A abstração oculta detalhes complexos, permitindo ao usuário interagir com o objeto sem compreender sua implementação interna, simplificando assim a interface de uso.
+
+A herança permite que uma classe herde propriedades e métodos de outra, facilitando a reutilização de código e a criação de hierarquias de classes, onde classes filhas podem estender ou modificar o comportamento da classe pai. O polimorfismo é a capacidade de um objeto assumir várias formas, permitindo que métodos com o mesmo nome sejam usados de maneira intercambiável em diferentes classes, aumentando a extensibilidade e flexibilidade do código.
+
+Na prática, a orientação a objetos é aplicada em várias linguagens, como C#, JavaScript, TypeScript e Dart, onde a comparação das implementações de classes e objetos ilustra a importância de entender os fundamentos para transitar entre essas linguagens. Os benefícios incluem uma melhor organização do código, facilitando a colaboração em equipe, além de reduzir erros e aumentar a eficiência no desenvolvimento, especialmente na implementação de testes e na manutenção de sistemas complexos. No entanto, existem desafios, como a necessidade de um entendimento sólido dos conceitos para evitar implementações incorretas, e os riscos de complexidade excessiva se não forem aplicados corretamente, sendo importante equilibrar a orientação a objetos com outros paradigmas de programação.
+
+
+
+
+
+
