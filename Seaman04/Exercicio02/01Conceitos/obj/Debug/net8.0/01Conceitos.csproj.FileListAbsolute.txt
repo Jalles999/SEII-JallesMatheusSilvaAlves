@@ -1,0 +1,14 @@
+C:\Users\thais\Desktop\atividade2\01Conceitos\bin\Debug\net8.0\01Conceitos.exe
+C:\Users\thais\Desktop\atividade2\01Conceitos\bin\Debug\net8.0\01Conceitos.deps.json
+C:\Users\thais\Desktop\atividade2\01Conceitos\bin\Debug\net8.0\01Conceitos.runtimeconfig.json
+C:\Users\thais\Desktop\atividade2\01Conceitos\bin\Debug\net8.0\01Conceitos.dll
+C:\Users\thais\Desktop\atividade2\01Conceitos\bin\Debug\net8.0\01Conceitos.pdb
+C:\Users\thais\Desktop\atividade2\01Conceitos\obj\Debug\net8.0\01Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thais\Desktop\atividade2\01Conceitos\obj\Debug\net8.0\01Conceitos.AssemblyInfoInputs.cache
+C:\Users\thais\Desktop\atividade2\01Conceitos\obj\Debug\net8.0\01Conceitos.AssemblyInfo.cs
+C:\Users\thais\Desktop\atividade2\01Conceitos\obj\Debug\net8.0\01Conceitos.csproj.CoreCompileInputs.cache
+C:\Users\thais\Desktop\atividade2\01Conceitos\obj\Debug\net8.0\01Conceitos.dll
+C:\Users\thais\Desktop\atividade2\01Conceitos\obj\Debug\net8.0\refint\01Conceitos.dll
+C:\Users\thais\Desktop\atividade2\01Conceitos\obj\Debug\net8.0\01Conceitos.pdb
+C:\Users\thais\Desktop\atividade2\01Conceitos\obj\Debug\net8.0\01Conceitos.genruntimeconfig.cache
+C:\Users\thais\Desktop\atividade2\01Conceitos\obj\Debug\net8.0\ref\01Conceitos.dll

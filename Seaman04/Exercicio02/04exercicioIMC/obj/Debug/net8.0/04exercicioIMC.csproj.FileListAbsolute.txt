@@ -1,0 +1,4 @@
+C:\Users\thais\Desktop\atividade2\04exercicioIMC\obj\Debug\net8.0\04exercicioIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thais\Desktop\atividade2\04exercicioIMC\obj\Debug\net8.0\04exercicioIMC.AssemblyInfoInputs.cache
+C:\Users\thais\Desktop\atividade2\04exercicioIMC\obj\Debug\net8.0\04exercicioIMC.AssemblyInfo.cs
+C:\Users\thais\Desktop\atividade2\04exercicioIMC\obj\Debug\net8.0\04exercicioIMC.csproj.CoreCompileInputs.cache

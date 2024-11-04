@@ -1,0 +1,14 @@
+C:\Users\thais\Desktop\atividade2\03exercicioEscolar\bin\Debug\net8.0\03exercicioEscolar.exe
+C:\Users\thais\Desktop\atividade2\03exercicioEscolar\bin\Debug\net8.0\03exercicioEscolar.deps.json
+C:\Users\thais\Desktop\atividade2\03exercicioEscolar\bin\Debug\net8.0\03exercicioEscolar.runtimeconfig.json
+C:\Users\thais\Desktop\atividade2\03exercicioEscolar\bin\Debug\net8.0\03exercicioEscolar.dll
+C:\Users\thais\Desktop\atividade2\03exercicioEscolar\bin\Debug\net8.0\03exercicioEscolar.pdb
+C:\Users\thais\Desktop\atividade2\03exercicioEscolar\obj\Debug\net8.0\03exercicioEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thais\Desktop\atividade2\03exercicioEscolar\obj\Debug\net8.0\03exercicioEscolar.AssemblyInfoInputs.cache
+C:\Users\thais\Desktop\atividade2\03exercicioEscolar\obj\Debug\net8.0\03exercicioEscolar.AssemblyInfo.cs
+C:\Users\thais\Desktop\atividade2\03exercicioEscolar\obj\Debug\net8.0\03exercicioEscolar.csproj.CoreCompileInputs.cache
+C:\Users\thais\Desktop\atividade2\03exercicioEscolar\obj\Debug\net8.0\03exercicioEscolar.dll
+C:\Users\thais\Desktop\atividade2\03exercicioEscolar\obj\Debug\net8.0\refint\03exercicioEscolar.dll
+C:\Users\thais\Desktop\atividade2\03exercicioEscolar\obj\Debug\net8.0\03exercicioEscolar.pdb
+C:\Users\thais\Desktop\atividade2\03exercicioEscolar\obj\Debug\net8.0\03exercicioEscolar.genruntimeconfig.cache
+C:\Users\thais\Desktop\atividade2\03exercicioEscolar\obj\Debug\net8.0\ref\03exercicioEscolar.dll
