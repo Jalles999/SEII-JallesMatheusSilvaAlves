@@ -1,0 +1,4 @@
+C:\Users\thais\Desktop\trabalho\sd\semana 5\exercicio 4\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\net8.0\AsyncAwaitDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thais\Desktop\trabalho\sd\semana 5\exercicio 4\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\net8.0\AsyncAwaitDemo.AssemblyInfoInputs.cache
+C:\Users\thais\Desktop\trabalho\sd\semana 5\exercicio 4\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\net8.0\AsyncAwaitDemo.AssemblyInfo.cs
+C:\Users\thais\Desktop\trabalho\sd\semana 5\exercicio 4\AsyncAwaitDemo\AsyncAwaitDemo\obj\Debug\net8.0\AsyncAwaitDemo.csproj.CoreCompileInputs.cache
